@@ -1,6 +1,7 @@
 ### Hi there 👋
-Welcome to my profile
-I am a uni student that tries to be a fullstack developer
+Welcome to my profile.
+<br>
+I am a uni student that tries to be a fullstack developer.
 <!--
 **RayhanSakha/RayhanSakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
